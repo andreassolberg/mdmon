@@ -1,0 +1,6 @@
+(c) Andreas Åkre Solberg, UNINETT AS, 2011
+
+To start:
+
+	node ./server.js
+
