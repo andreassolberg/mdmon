@@ -1,0 +1,52 @@
+body {
+	font-family: Helvetica, sans-serif;
+}
+div.data {
+	padding: 0px; margin: 0px;
+}
+div.controller {
+	margin: 3px 1em;
+	width: 400px;
+
+	border: 1px solid #ccc;
+	background: #f4f4f4;
+	padding: 3px;
+
+	font-size: 90%;
+}
+div.controller p {
+	margin: 2px;
+}
+
+img.totalstatus {
+	float: left;
+}
+
+div.entry h2 {
+	margin: 3px 3px;
+}
+div.entry p.descr {
+	margin: 3px 5px;
+}
+div.entry {
+	cleaR: both;
+	border: 1px solid #ccc;
+	margin: 3px 1em;
+	padding: 3px 1em;
+}
+pre.entityid {
+	float: right;
+}
+pre.debug {
+	display: none;
+}
+
+div.statusentry {
+	clear: left;
+	border-top: 1px solid #eee;
+	margin: 0px;
+	font-size: 85%;
+}
+div.statusentry img {
+	margin-right: 4px;
+}
